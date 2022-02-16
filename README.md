@@ -1,6 +1,6 @@
 ### ¡Hola! I'm Albert. <img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="90px"> 
 
-#### I'm a Junior IOS Developer. Originally from Spain 🇪🇸 currently based in Barcelona.
+#### I'm a Junior IOS Developer from Spain 🇪🇸  based in Barcelona.
 - 🕵🏻‍  I'm looking for a work as Associate IOS Developer
 - 🌱  Graduated in Full Stack Mobile Developer by KeepCoding.
 - 🤔  Actually focused in learn **Swift** and **SwiftUI**
