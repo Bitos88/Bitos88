@@ -1,7 +1,7 @@
 ### ¡Hola! I'm Albert. <img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="90px"> 
 
 #### I'm an IOS Developer from Spain 🇪🇸  based in Barcelona.
-- 🕵🏻‍  I'm looking for a work as Associate IOS Developer
+- 🕵🏻‍  I'm looking for a work as IOS Developer
 - 🌱  Graduated in Full Stack Mobile Developer by KeepCoding.
 - 🌱  Graduated in FullStack Swift Developer by Apple Coding Academy.
 - 🤔  Actually focused in learn **Swift** and **SwiftUI**
