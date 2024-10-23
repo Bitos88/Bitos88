@@ -18,11 +18,11 @@ If you want to get in touch:
 #### 📚 Libraries and Frameworks currently studying
 ![SwiftUI](https://img.shields.io/badge/SWIFTUI-E34F26?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-E34F26?style=for-the-badge&logo=swift&logoColor=white)
-![Async Await](https://img.shields.io/badge/Async-Await-E34F26?style=for-the-badge&logo=swift&logoColor=white)
-![Swift Testing](https://img.shields.io/badge/Async-Await-E34F26?style=for-the-badge&logo=swift&logoColor=white)
-![Swift secure development](https://img.shields.io/badge/Swift-secure-development-E34F26?style=for-the-badge&logo=swift&logoColor=white)
+![Async Await](https://img.shields.io/badge/Async/Await-E34F26?style=for-the-badge&logo=swift&logoColor=white)
+![Swift Testing](https://img.shields.io/badge/Testing-E34F26?style=for-the-badge&logo=swift&logoColor=white)
+![Security](https://img.shields.io/badge/Security-E34F26?style=for-the-badge&logo=swift&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-38B2AC?style=for-the-badge&logo=combine-css&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData%20-%23EE6E73.svg?&style=for-the-badge&logo=coredata&logoColor=FFFFFF)
+![CoreData](https://img.shields.io/badge/CoreData-38B2AC?style=for-the-badge&logo=combine-css&logoColor=white)
 ![VisionOS](https://img.shields.io/badge/VisionOS-E34F26?style=for-the-badge&logo=swift&logoColor=white)
 
 
